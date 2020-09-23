@@ -1,0 +1,337 @@
+Count Lines of Code v1.2.239                             30 Jun 2012  05:16 PM
+
+                               kiMisc_Group.vbg
+                        Kenneth Ives  kenaso@tx.rr.com
+------------------------------------------------------------------------------
+
+   VBG Name:  C:\Kens Software\KiMisc\kiMisc_Group.vbg
+
+   VBP Name:  C:\Kens Software\KiMisc\DLL\kiMisc.vbp
+
+Module Name:  C:\Kens Software\KiMisc\DLL\cls32BitMath.cls
+
+                  44  Constant variables
+                   2  Enum Structures
+                   1  API Declare statements
+                   1  Property Let routines
+                   1  Property Get routines
+                  14  Sub routines
+                  58  Functions
+               1,332  Miscellaneous lines of code
+                  15  Auto generated lines (Not Counted)
+                 682  Blank lines (Not Counted)
+               1,995  Comment lines (Not Counted)
+          ----------
+               1,451  Module lines of code
+
+Module Name:  C:\Kens Software\KiMisc\DLL\cls64BitMath.cls
+
+                  35  Constant variables
+                   3  Enum Structures
+                   1  API Declare statements
+                   1  Property Let routines
+                   1  Property Get routines
+                   2  Sub routines
+                  41  Functions
+               1,270  Miscellaneous lines of code
+                  15  Auto generated lines (Not Counted)
+                 582  Blank lines (Not Counted)
+               1,502  Comment lines (Not Counted)
+          ----------
+               1,352  Module lines of code
+
+Module Name:  C:\Kens Software\KiMisc\DLL\clsBigFiles.cls
+
+                  20  Constant variables
+                  10  API Declare statements
+                   4  Sub routines
+                   9  Functions
+                 269  Miscellaneous lines of code
+                  15  Auto generated lines (Not Counted)
+                 161  Blank lines (Not Counted)
+                 539  Comment lines (Not Counted)
+          ----------
+                 312  Module lines of code
+
+Module Name:  C:\Kens Software\KiMisc\DLL\clsConvertDateTime.cls
+
+                   2  Constant variables
+                   2  Enum Structures
+                   3  Property Let routines
+                   1  Sub routines
+                   4  Functions
+                 299  Miscellaneous lines of code
+                  13  Auto generated lines (Not Counted)
+                  31  Blank lines (Not Counted)
+                 145  Comment lines (Not Counted)
+          ----------
+                 308  Module lines of code
+
+Module Name:  C:\Kens Software\KiMisc\DLL\clsDates.cls
+
+                  17  Constant variables
+                   3  Enum Structures
+                   2  Type Structures
+                   4  API Declare statements
+                   1  Property Let routines
+                   6  Property Get routines
+                   3  Sub routines
+                  32  Functions
+                 591  Miscellaneous lines of code
+                  15  Auto generated lines (Not Counted)
+                 126  Blank lines (Not Counted)
+               1,075  Comment lines (Not Counted)
+          ----------
+                 652  Module lines of code
+
+Module Name:  C:\Kens Software\KiMisc\DLL\clsDiskInfo.cls
+
+                  55  Constant variables
+                   6  Enum Structures
+                  17  Type Structures
+                  16  API Declare statements
+                   1  Property Let routines
+                  26  Property Get routines
+                   8  Sub routines
+                  30  Functions
+               1,153  Miscellaneous lines of code
+                  15  Auto generated lines (Not Counted)
+                 281  Blank lines (Not Counted)
+                 850  Comment lines (Not Counted)
+          ----------
+               1,285  Module lines of code
+
+Module Name:  C:\Kens Software\KiMisc\DLL\clsFileDate.cls
+
+                  21  Constant variables
+                   1  Enum Structures
+                   3  Type Structures
+                  16  API Declare statements
+                   4  Property Let routines
+                  11  Property Get routines
+                   7  Sub routines
+                   7  Functions
+                 407  Miscellaneous lines of code
+                  15  Auto generated lines (Not Counted)
+                 141  Blank lines (Not Counted)
+                 519  Comment lines (Not Counted)
+          ----------
+                 462  Module lines of code
+
+Module Name:  C:\Kens Software\KiMisc\DLL\clsOperSystem.cls
+
+                  46  Constant variables
+                   4  Type Structures
+                   8  API Declare statements
+                  73  Property Get routines
+                  16  Sub routines
+                   4  Functions
+                 667  Miscellaneous lines of code
+                  15  Auto generated lines (Not Counted)
+                 146  Blank lines (Not Counted)
+                 284  Comment lines (Not Counted)
+          ----------
+                 745  Module lines of code
+
+Module Name:  C:\Kens Software\KiMisc\DLL\clsRandom.cls
+
+                  49  Constant variables
+                   3  Enum Structures
+                   1  Type Structures
+                  10  API Declare statements
+                   2  Property Let routines
+                   2  Property Get routines
+                  11  Sub routines
+                  14  Functions
+                 975  Miscellaneous lines of code
+                  15  Auto generated lines (Not Counted)
+                 185  Blank lines (Not Counted)
+               1,176  Comment lines (Not Counted)
+          ----------
+               1,063  Module lines of code
+
+Module Name:  C:\Kens Software\KiMisc\DLL\clsSort.cls
+
+                   9  Constant variables
+                   4  Enum Structures
+                   2  API Declare statements
+                   8  Property Let routines
+                   1  Property Get routines
+                  16  Sub routines
+                   3  Functions
+                 729  Miscellaneous lines of code
+                  15  Auto generated lines (Not Counted)
+                 135  Blank lines (Not Counted)
+                 970  Comment lines (Not Counted)
+          ----------
+                 763  Module lines of code
+
+Module Name:  C:\Kens Software\KiMisc\DLL\modMessages.bas
+
+                  12  Constant variables
+                   1  Enum Structures
+                   1  Type Structures
+                   8  API Declare statements
+                   2  Sub routines
+                   4  Functions
+                 124  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  29  Blank lines (Not Counted)
+                 259  Comment lines (Not Counted)
+          ----------
+                 152  Module lines of code
+
+Module Name:  C:\Kens Software\KiMisc\DLL\modTrimStr.bas
+
+                   1  Constant variables
+                   1  Type Structures
+                   2  API Declare statements
+                   2  Functions
+                  54  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  39  Blank lines (Not Counted)
+                 135  Comment lines (Not Counted)
+          ----------
+                  60  Module lines of code
+
+          ----------
+               8,605  Sub-total for project 
+                      
+ 
+   VBP Name:  C:\Kens Software\KiMisc\kiMisc_Demo.vbp
+
+Module Name:  C:\Kens Software\KiMisc\clsKeyEdit.cls
+
+                   4  Constant variables
+                   2  Type Structures
+                   4  API Declare statements
+                  11  Sub routines
+                   2  Functions
+                 244  Miscellaneous lines of code
+                  15  Auto generated lines (Not Counted)
+                  48  Blank lines (Not Counted)
+                 382  Comment lines (Not Counted)
+          ----------
+                 267  Module lines of code
+
+Module Name:  C:\Kens Software\KiMisc\frmAbout.frm
+
+                   1  Constant variables
+                   2  API Declare statements
+                  10  Sub routines
+                  87  Miscellaneous lines of code
+                 292  Auto generated lines (Not Counted)
+                  27  Blank lines (Not Counted)
+                  52  Comment lines (Not Counted)
+          ----------
+                 100  Module lines of code
+
+Module Name:  C:\Kens Software\KiMisc\frmMain.frm
+
+                   8  Constant variables
+                   3  API Declare statements
+                  38  Sub routines
+               1,240  Miscellaneous lines of code
+               2,900  Auto generated lines (Not Counted)
+                  96  Blank lines (Not Counted)
+                 281  Comment lines (Not Counted)
+          ----------
+               1,289  Module lines of code
+
+Module Name:  C:\Kens Software\KiMisc\frmSplash.frm
+
+                   3  Sub routines
+                  23  Miscellaneous lines of code
+                 114  Auto generated lines (Not Counted)
+                   9  Blank lines (Not Counted)
+                   5  Comment lines (Not Counted)
+          ----------
+                  26  Module lines of code
+
+Module Name:  C:\Kens Software\KiMisc\modMain.bas
+
+                  11  Constant variables
+                  12  API Declare statements
+                   5  Sub routines
+                   9  Functions
+                 238  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  65  Blank lines (Not Counted)
+                 388  Comment lines (Not Counted)
+          ----------
+                 275  Module lines of code
+
+Module Name:  C:\Kens Software\KiMisc\modManifest.bas
+
+                  21  Constant variables
+                   2  Type Structures
+                   6  API Declare statements
+                   2  Sub routines
+                   2  Functions
+                 117  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  20  Blank lines (Not Counted)
+                 160  Comment lines (Not Counted)
+          ----------
+                 150  Module lines of code
+
+Module Name:  C:\Kens Software\KiMisc\modMessages.bas
+
+                  12  Constant variables
+                   1  Enum Structures
+                   1  Type Structures
+                   8  API Declare statements
+                   2  Sub routines
+                   4  Functions
+                 124  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  29  Blank lines (Not Counted)
+                 259  Comment lines (Not Counted)
+          ----------
+                 152  Module lines of code
+
+Module Name:  C:\Kens Software\KiMisc\modProcesses.bas
+
+                   8  Constant variables
+                   3  Type Structures
+                  12  API Declare statements
+                   3  Sub routines
+                   5  Functions
+                 228  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  43  Blank lines (Not Counted)
+                 263  Comment lines (Not Counted)
+          ----------
+                 259  Module lines of code
+
+Module Name:  C:\Kens Software\KiMisc\modTrimStr.bas
+
+                   1  Constant variables
+                   1  Type Structures
+                   2  API Declare statements
+                   2  Functions
+                  54  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  39  Blank lines (Not Counted)
+                 135  Comment lines (Not Counted)
+          ----------
+                  60  Module lines of code
+
+          ----------
+               2,578  Sub-total for project 
+                      
+ 
+          ==========
+              11,183  Total number of lines of code
+
+******************************************************************************
+NOTE:     Visual Basic trailers are not counted.  These are the
+          logical ending statements used by proceedural headings.
+
+               End Sub     End Function     End Property
+               End If      End Type         Loop
+               Next        Wend             End With
+               End Select
+******************************************************************************
+
+
